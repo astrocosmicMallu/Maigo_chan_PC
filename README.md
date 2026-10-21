@@ -1,5 +1,5 @@
 # 迷子ちゃん — MAIGO-CHAN
-
+By Deeju manu p, https://www.instagram.com/deeju_ponparaa/
 A first-person WebGL horror prototype. One rainy dead-end alley in Tokyo, a lost child, and a
 flashlight you should not point at her back.
 
